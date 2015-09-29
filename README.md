@@ -1,6 +1,3 @@
 # Cerrojo
 Esto es un cerrojo. :D
-
-Sarasasas
-
-Merengadas!
+Mentira esto no es nada.
